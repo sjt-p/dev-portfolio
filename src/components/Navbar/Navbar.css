@@ -12,11 +12,11 @@
 
 .navbar a {
     text-decoration: none;
-    color: #F8FAFC;
+    color: var(--color-text);
     transition: color 0.5s ease;
 }
 
 .navbar a:hover {
-    color: #3B82F6;
+    color: var(--color-primary);
 }
 
