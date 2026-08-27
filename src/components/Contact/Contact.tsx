@@ -12,8 +12,14 @@ function Contact() {
                 </p>
 
                 <div className="contact-links">
-                    <a href="#">Github</a>
-                    <a href="#">Email</a>
+                    <a href="https://github.com/sjt-p"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
+                        Github
+                    </a>
+                    
+                    <a href="mailto:tanstevenjeremy@gmail.com">Email</a>
                 </div>
             </div>
 

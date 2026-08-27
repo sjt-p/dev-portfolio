@@ -19,8 +19,8 @@ function Hero(){
                 </p>
 
                 <div className="hero-actions">
-                    <a href="">View My Projects</a>
-                    <a href="">Contact Me</a>
+                    <a href="#projects">View My Projects</a>
+                    <a href="#contact">Contact Me</a>
                 </div>
             </div>
         </section>
