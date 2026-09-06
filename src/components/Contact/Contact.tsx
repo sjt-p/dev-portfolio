@@ -8,7 +8,7 @@ function Contact() {
 
                 <p>
                     I'm currently looking for junior front-end
-                    development opportunities
+                    development opportunities.
                 </p>
 
                 <div className="contact-links">
@@ -16,7 +16,7 @@ function Contact() {
                         target="_blank"
                         rel="noreferrer"
                     >
-                        Github
+                        GitHub
                     </a>
                     
                     <a href="mailto:tanstevenjeremy@gmail.com">Email</a>
