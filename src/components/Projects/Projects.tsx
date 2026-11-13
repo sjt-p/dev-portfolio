@@ -35,6 +35,13 @@ function Projects() {
               >
                 GitHub
               </a>
+              <a
+                href="https://jeremytandev.vercel.app"
+                target="blank"
+                rel="noreferrer"
+              >
+                Live site
+              </a>
             </div>
           </article>
         </div>
