@@ -9,8 +9,7 @@ function Hero() {
         <p className="dev-title">Junior Front-End Developer</p>
 
         <p className="dev-desc">
-          Junior front-end developer with internship experience working with
-          React, Git, UI development, and bug fixing.
+          I build responsive, reusable React interfaces.
         </p>
 
         <div className="hero-actions">
