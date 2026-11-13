@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="nav-name">
-        <a href="/">Jeremy</a>
+        <a href="/">Jeremy Tan</a>
       </div>
 
       <div className="nav-links">
