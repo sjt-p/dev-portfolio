@@ -19,7 +19,13 @@ function Contact() {
             <a href="https://github.com/sjt-p" target="_blank" rel="noreferrer">
               GitHub
             </a>
-
+            <a
+              href="https://www.linkedin.com/in/stevenjeremytan"
+              target="_blank"
+              rel="noreferrer"
+            >
+              LinkedIn
+            </a>
             <a href="mailto:tanstevenjeremy@gmail.com">Email</a>
           </div>
         </div>
