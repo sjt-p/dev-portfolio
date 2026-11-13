@@ -11,16 +11,18 @@ function About() {
 
         <div className="about-text">
           <p>
-            I'm a junior front-end developer with internship experience working
-            primarily on web application interfaces. During my internship, I
-            worked with React, Git, bug fixing, and UI development, including
-            building reusable components for existing applications.
+            I'm an Information Technology graduate focused on front-end
+            development with React and TypeScript.
+          </p>
+          <p>
+            During an internship, I worked on the front-end of a web-based hotel
+            management system, where I made layouts responsive, built a reusable
+            avatar component, added skeleton loading screens, and fixed UI bugs.
           </p>
 
           <p>
-            I'm currently focused on strengthening my front-end skills, building
-            practical projects with React, and continuing to grow as a
-            developer.
+            I'm looking for a junior front-end role where I can continue
+            building and learning. This portfolio is a project of my own.
           </p>
         </div>
       </div>
