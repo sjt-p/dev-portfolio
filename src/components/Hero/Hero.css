@@ -47,6 +47,7 @@
   border: 1px solid var(--color-primary);
   border-radius: 6px;
   transition: transform 0.2s ease;
+  text-align: center;
 }
 
 .hero-actions a:hover {
@@ -54,7 +55,11 @@
 }
 
 @media (max-width: 600px) {
+  .hero-body {
+    min-height: auto;
+  }
   .hero-actions {
     flex-direction: column;
+    align-self: stretch;
   }
 }
