@@ -21,6 +21,7 @@ function Skills() {
           <div className="skill-group">
             <h3>Tools</h3>
             <span>Git</span>
+            <span>GitHub</span>
           </div>
         </div>
       </div>
